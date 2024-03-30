@@ -1,4 +1,4 @@
-<h1 align="center">👋🏽 Hola! </h1> 
+<h1 align="start">👋🏽 Hi! I´m Micaela Bahurlet. Front-end Developer and UX/UI Designer. </h1> 
 
 <!--Languages and Tools Section-->       
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
