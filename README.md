@@ -3,9 +3,16 @@
 
 <td/>
 <!--Languages and Tools Section-->       
-<h2 align="start">Stack Languages and Tools</h2> 
+<h2 align="start">Stack Languages to Front-End</h2> 
 <p align="start">
-<img width="700px"  src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,vite,nodejs,express,mongo,git,github,vscode,figma,ps,perline=10"  />
+<img width="700px"  src="https://skillicons.dev/icons?i=html,css,js,react,vite,bootstrap,styledcomponents,nodejs,vscode,figma,ps,perline=10"  />
+</p>
+<br />
+
+<!--Languages and Tools Section-->       
+<h2 align="start">Stack Languages to Back-End</h2> 
+<p align="start">
+<img width="700px"  src="https://skillicons.dev/icons?i=nodejs,express,mongo,git,github,vscode,perline=10"  />
 </p>
 <br />
 
