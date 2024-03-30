@@ -1,4 +1,5 @@
 <h1 align="start">👋🏽 Hi! I´m Micaela Bahurlet. <br /> Front-end Developer and UX/UI Designer. </h1> 
+![Texto alternativo](./img/pruebada1.jpg)
 
 <td/>
 <!--Languages and Tools Section-->       
