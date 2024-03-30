@@ -5,7 +5,7 @@
 <!--Languages and Tools Section-->       
 <h2 align="start">Stack Languages to Front-End</h2> 
 <p align="start">
-<img width="700px"  src="https://skillicons.dev/icons?i=html,css,js,react,vite,bootstrap,styledcomponents,nodejs,figma,ps,perline=10"  />
+<img width="700px"  src="https://skillicons.dev/icons?i=html,css,js,react,vite,bootstrap,styledcomponents,nodejs,figma,ps,perline=5"  />
 </p>
 <br />
 
