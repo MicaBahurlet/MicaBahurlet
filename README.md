@@ -1,5 +1,5 @@
 <h1 style="font-weight: bold;" align="start" >👋🏽 Hi! I´m Micaela Bahurlet. </h1> 
-<br />
+
 <h2 align="start"> Front-end Developer and UX/UI Designer. </h2> 
 
 
