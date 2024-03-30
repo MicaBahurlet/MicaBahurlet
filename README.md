@@ -1,6 +1,4 @@
-<h1 style="font-weight: bold;" align="start" >👋🏽 Hi! I´m Micaela Bahurlet. </h1> 
-
-<h2 align="start"> Front-end Developer and UX/UI Designer. </h2> 
+<h1 style="font-weight: bold;" align="start" >👋🏽 Hi! I´m Micaela Bahurlet. <br />  Front-end Developer and UX/UI Designer. </h1> 
 
 
 <td/>
