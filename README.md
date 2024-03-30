@@ -4,6 +4,6 @@
 <!--Languages and Tools Section-->       
 <h2 align="start">Languages and Tools</h2> 
 <p align="start">
-<img width="700px"  src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,vite,nodejs,express,mongo,git,github,vscode,postman,figma,PS,perline=5"  />
+<img width="700px"  src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,vite,nodejs,express,mongo,git,github,vscode,figma,PS,perline=5"  />
 </p>
 <br />
