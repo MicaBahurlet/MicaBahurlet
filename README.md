@@ -12,7 +12,7 @@
 <!--Languages and Tools Section-->       
 <h2 align="start">Stack Languages to Back-End</h2> 
 <p align="start">
-<img width="300px"  src="https://skillicons.dev/icons?i=nodejs,express,mongo,git,github,perline=10"  />
+<img width="600px"  src="https://skillicons.dev/icons?i=nodejs,express,mongo,git,github,perline=10"  />
 </p>
 <br />
 
