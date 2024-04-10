@@ -22,5 +22,5 @@
 <img width="150px"  src="https://skillicons.dev/icons?i=apple,vscode,wordpress,perline=10"  />
 </p>
 
-https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white
+
 
