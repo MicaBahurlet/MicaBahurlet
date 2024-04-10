@@ -22,7 +22,6 @@
 <img width="150px"  src="https://skillicons.dev/icons?i=apple,vscode,wordpress,perline=10"  />
 </p>
 
-https://github-readme-stats.vercel.app/api/top-langs/?username={MicaBahurlet}&theme=blue-green
 
 
 
