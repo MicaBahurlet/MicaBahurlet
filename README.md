@@ -1,4 +1,4 @@
-<h1 style="font-weight: bold;" align="start" >👋🏽 Hi! I´m Micaela Bahurlet, </h1> <h2>Developer & UX/UI Designer.</h2> 
+<h1 style="font-weight: bold;" align="start" >👋🏽 Hi! I´m Micaela Bahurlet, <br> Developer & UX/UI Designer. </h1> 
 
 <td/>
 <!--Languages and Tools Section Front-->       
