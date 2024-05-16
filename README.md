@@ -21,7 +21,7 @@
 <img width="300px"  src="https://skillicons.dev/icons?i=apple,vscode,wordpress,git,github,vercel,perline=10"  />
 </p>
 
-
+<strong>	&#128233; Contacto:</strong> micabahurletgo@gmail.com 
 
    
 
