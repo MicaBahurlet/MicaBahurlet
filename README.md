@@ -19,7 +19,7 @@
 <!--Work to-->       
 <h2 align="start">I work with:</h2> 
 <p align="start">
-<img width="100px"  src="https://skillicons.dev/icons?i=apple,vscode,wordpress,git,github,vercel,perline=10"  />
+<img width="200px"  src="https://skillicons.dev/icons?i=apple,vscode,wordpress,git,github,vercel,perline=10"  />
 </p>
 
 <strong>	&#128233; Contacto:</strong> micabahurletgo@gmail.com 
