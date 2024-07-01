@@ -4,7 +4,7 @@
 <!--Languages and Tools Section Front-->       
 <h2 align="start">Stack Languages and Tools:</h2> 
 <p align="start">
-<img width="500px"  src="https://skillicons.dev/icons?i=html,css,sass,js,react,typescript,vite,bootstrap,styledcomponents,figma,ps,nodejs,express,mongo,postman perline=15"  />
+<img width="500px"  src="https://skillicons.dev/icons?i=html,css,sass,js,react,typescript,wordpress,git,github,vercel, vite,bootstrap,styledcomponents,figma,ps,nodejs,express,mongo,postman perline=20"  />
 </p>
 
 
@@ -16,11 +16,12 @@
 --> 
 
 
-<!--Work to-->       
+<!--Work to       
 <h2 align="start">I work with:</h2> 
 <p align="start">
 <img width="200px"  src="https://skillicons.dev/icons?i=apple,vscode,wordpress,git,github,vercel,perline=10"  />
 </p>
+-->
 
 <strong>	&#128233; Contacto:</strong> micabahurletgo@gmail.com 
 
