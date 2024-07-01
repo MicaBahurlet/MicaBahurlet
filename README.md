@@ -2,7 +2,7 @@
 
 <td/>
 <!--Languages and Tools Section Front-->       
-<h2 align="start">Stack Languages and Tools to Front-End:</h2> 
+<h2 align="start">Stack Languages and Tools:</h2> 
 <p align="start">
 <img width="500px"  src="https://skillicons.dev/icons?i=html,css,sass,js,react,typescript,vite,bootstrap,styledcomponents,figma,ps,nodejs,express,mongo,postman perline=15"  />
 </p>
