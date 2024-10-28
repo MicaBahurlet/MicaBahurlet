@@ -4,9 +4,9 @@
 <!--Languages and Tools Section Front-->       
 <h2 align="start">Stack Languages and Tools:</h2> 
 <p align="start">
-<img width="400px"  src="https://skillicons.dev/icons?i=html,css,sass,js,react,typescript,vite,bootstrap,styledcomponents,nodejs,express,mongo,postman perline=10"  /> 
-   <br>
-<img width="200px"  src="https://skillicons.dev/icons?i=wordpress,git,github,vercel,figma,ps perline=10"  />
+<img width="600px"  src="https://skillicons.dev/icons?i=html,css,js,react,typescript,php,laravel,bootstrap,nodejs,express,mongo,mysql,styledcomponents,sass,vite perline=10"  /> 
+   <br><br>
+<img width="250px"  src="https://skillicons.dev/icons?i=postman,wordpress,git,github,vercel,figma,ps perline=10"  />
 </p>
 
 
