@@ -1,13 +1,13 @@
 <h1 style="font-weight: bold;" align="start" >👋🏽 Hi! I´m Micaela Bahurlet, <br> Developer & UX/UI Designer. </h1> 
 
 <td/>
-<!--Languages and Tools Section Front-->       
+<!--Languages and Tools Section Fron     
 <h2 align="start">Stack Languages and Tools:</h2> 
 <p align="start">
 <img width="600px"  src="https://skillicons.dev/icons?i=html,css,js,npm,react,typescript,php,laravel,bootstrap,nodejs,express,mongo,mysql,styledcomponents,tailwind,sass,vite,wordpress perline=10"  /> 
    <br><br>
 <img width="250px"  src="https://skillicons.dev/icons?i=postman,wordpress,git,github,vercel,figma,ps perline=10"  />
-</p>
+</p> t-->  
 
 
 <!--Languages and Tools Section Back      
