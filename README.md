@@ -28,7 +28,9 @@
 </p>
 -->
 
-<strong>	&#128233; Contacto:</strong> micabahurletgo@gmail.com 
+<strong>	&#128233; Contact:</strong> micabahurletgo@gmail.com 
+<br><br>
+<strong>	🌐 Personal Porfolio:</strong> https://micaela-bahurlet.vercel.app/
 
    
 
