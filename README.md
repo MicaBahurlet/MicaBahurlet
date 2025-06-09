@@ -1,5 +1,8 @@
 <h1 style="font-weight: bold;" align="start" >👋🏽 Hi! I´m Micaela Bahurlet, <br> Developer & UX/UI Designer. </h1> 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MicaBahurlet&layout=compact)
+
+
 <td/>
 <!--Languages and Tools Section Fron     
 <h2 align="start">Stack Languages and Tools:</h2> 
