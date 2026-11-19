@@ -1,8 +1,6 @@
 <div>
 
-# Micaela Bahurlet
-
-**Full-Stack Developer**
+# Full-Stack Developer
 
 End-to-end product development — interfaces, business logic, and APIs —  
 with technical judgment and AI-assisted workflows.
