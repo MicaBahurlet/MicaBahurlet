@@ -1,4 +1,4 @@
-<div align="center">
+<div>
 
 # Micaela Bahurlet
 
@@ -37,7 +37,7 @@ with technical judgment and AI-assisted workflows.
 | **GitHub** | [github.com/MicaBahurlet](https://github.com/MicaBahurlet) |
 | **Email** | [micabahurletgo@gmail.com](mailto:micabahurletgo@gmail.com) |
 
-<div align="center">
+<div>
 
 <br />
 
